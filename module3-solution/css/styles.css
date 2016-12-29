@@ -1,0 +1,37 @@
+h1 {
+  margin-bottom: 50px;
+}
+
+.row {
+	width: 100%;
+}
+
+.box {
+  	margin-bottom: 20px;
+  	background-color: grey;
+}
+
+.title {
+	margin-bottom: 5px;
+	font-size: 1.3em;
+}
+
+#collapsable-nav {
+	font-size: 1.5em;
+	
+}
+
+
+#main-content {
+	margin: 10px;
+}
+
+.navbar-brand {
+	font-size: 2em;
+}
+
+
+.navbar {
+	border-radius: 0;
+	border:0;
+}
